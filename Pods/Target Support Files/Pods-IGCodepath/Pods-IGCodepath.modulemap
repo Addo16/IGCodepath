@@ -1,0 +1,6 @@
+framework module Pods_IGCodepath {
+  umbrella header "Pods-IGCodepath-umbrella.h"
+
+  export *
+  module * { export * }
+}
